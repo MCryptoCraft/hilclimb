@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hill-climb-game/static/css/main.6cebb1f6.css",
+    "main.js": "/hill-climb-game/static/js/main.93c46bf1.js",
+    "index.html": "/hill-climb-game/index.html",
+    "main.6cebb1f6.css.map": "/hill-climb-game/static/css/main.6cebb1f6.css.map",
+    "main.93c46bf1.js.map": "/hill-climb-game/static/js/main.93c46bf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cebb1f6.css",
+    "static/js/main.93c46bf1.js"
+  ]
+}
